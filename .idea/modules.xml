@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mtv.iml" filepath="$PROJECT_DIR$/mtv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtv-admin/mtv-admin.iml" filepath="$PROJECT_DIR$/mtv-admin/mtv-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtv-eureka/mtv-eureka.iml" filepath="$PROJECT_DIR$/mtv-eureka/mtv-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtv-feign/mtv-feign.iml" filepath="$PROJECT_DIR$/mtv-feign/mtv-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtv-server/mtv-server.iml" filepath="$PROJECT_DIR$/mtv-server/mtv-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtv-zuul/mtv-zuul.iml" filepath="$PROJECT_DIR$/mtv-zuul/mtv-zuul.iml" />
+    </modules>
+  </component>
+</project>
